@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My ApplicationWebServices</string>
+    <string name="title_enter_post">Enter title</string>
+    <string name="hint_title">title</string>
+    <string name="hint_body">body</string>
+    <string name="action_submit">Submit</string>
+</resources>
